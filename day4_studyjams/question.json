@@ -1,0 +1,19 @@
+{
+    "What is the capital of France?": {
+      "options": ["A. Paris", "B. London", "C. Berlin", "D. Madrid"],
+      "answer": "A"
+    },
+    "What is the largest planet in our solar system?": {
+      "options": ["A. Earth", "B. Jupiter", "C. Mars", "D. Venus"],
+      "answer": "B"
+    },
+    "Who wrote 'Romeo and Juliet'?": {
+      "options": ["A. Charles Dickens", "B. Jane Austen", "C. William Shakespeare", "D. Mark Twain"],
+      "answer": "C"
+    },
+    "Which language is used to style web pages?": {
+      "options": ["A. HTML", "B. Python", "C. CSS", "D. Java"],
+      "answer": "C"
+    }
+  }
+  
